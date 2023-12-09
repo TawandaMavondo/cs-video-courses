@@ -1,0 +1,18 @@
+repo_name: TawandaMavondo/cs-video-courses
+report_id: 202910b9e2db03fc0ff751a452237443
+repo_type: Public
+timestamp: '2023-12-09T20:06:37+00:00'
+requested_by: Developer-Y
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
